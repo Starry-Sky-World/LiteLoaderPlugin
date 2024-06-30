@@ -1,5 +1,6 @@
 # LiteLoaderPlugin
-> 非原创，如有侵权，请联系：https://chat.google.com/room/AAAARfKUYZo?cls=7
+![LiteLoaderPlugin](https://socialify.git.ci/Starry-Sky-World/LiteLoaderPlugin/image?description=1&descriptionEditable=LiteLoader%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
+> 如有侵权，请联系：https://chat.google.com/room/AAAARfKUYZo?cls=7
 ***
 # Plugin
 | Repo | Branch | Github Address |
